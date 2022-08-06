@@ -1,3 +1,3 @@
 # travelproject
 
-Full CRUD project using 
+Full CRUD project using Spring Framework
